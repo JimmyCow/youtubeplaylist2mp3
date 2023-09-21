@@ -1,6 +1,6 @@
 # youtubeplaylist2mp3
 !Build Status
-![License](https://opensource.org/licenses/MIT%29)
+![License]([(https://opensource.org/license/mit/)])
 
 A Python script that converts an entire YouTube playlist into individual mp3 files.
 
